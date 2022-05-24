@@ -13,6 +13,16 @@
 ### Trabalhos em grupo:
 
 <a href="https://pronguto.github.io/entrega-torre-de-hanoi-sprint-5-luanagomesz-1/" target="_blank"> Torre de Hanoi </a>
+<a href="https://kenzie-academy-brasil-developers.github.io/entrega-lig-4-sprint-5-Pronguto/" target="_blank"> Lig-4 </a>
+<a href="https://habits-team-project.vercel.app" target="_blank"> Gestão de habitos </a>
+<a href="https://maissaude.vercel.app" target="_blank"> Mais saúde </a>
+
+### trabalhos solo:
+
+<a href="https://kenzie-academy-brasil-developers.github.io/entrega-labirinto-sprint-5-Pronguto/" target="_blank"> Labirinto </a>
+<a href="https://kenzie-academy-brasil-developers.github.io/entrega-construa-um-jogo-de-azar-sprint-3-Pronguto/" target="_blank"> Jokenpô </a>
+<a href="https://react-entrega-s1-hamburgueria-da-kenzie-pronguto.vercel.app" target="_blank"> Hamburgeria </a>
+<a href="https://react-entrega-s5-hamburgueria-2-0-com-typescript-json-pronguto.vercel.app" target="_blank"> Hamburgeria 2.0 </a>
 
 
 ### Contatos:
