@@ -8,11 +8,11 @@
           
 ### Estou aprendendo: 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" margin-left="5px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" margin-left="5px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" margin-left="5px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" margin-left="5px" color="white" />
 
 ### Trabalhos em grupo:
 
-<a href="https://pronguto.github.io/entrega-torre-de-hanoi-sprint-5-luanagomesz-1/"> Torre de Hanoi </a>
+<a href="https://pronguto.github.io/entrega-torre-de-hanoi-sprint-5-luanagomesz-1/" target="_blank"> Torre de Hanoi </a>
 
 
 ### Contatos:
