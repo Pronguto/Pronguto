@@ -8,7 +8,7 @@
           
 ### Estou aprendendo: 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" margin-left="5px"/> <img src="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" margin-left="5px" color="white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" margin-left="5px"/> <img src="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" margin-left="5px" />
 
 
 ### Contatos:
