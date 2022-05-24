@@ -12,7 +12,7 @@
 
 ### Trabalhos em grupo:
 
-<a href="https://pronguto.github.io/entrega-torre-de-hanoi-sprint-5-luanagomesz-1/" target="_blank"> Torre de Hanoi </a>
+<a href="https://pronguto.github.io/entrega-torre-de-hanoi-sprint-5-luanagomesz-1/" target="_blank"> Torre de Hanoi </a> </br>
 <a href="https://kenzie-academy-brasil-developers.github.io/entrega-lig-4-sprint-5-Pronguto/" target="_blank"> Lig-4 </a>
 <a href="https://habits-team-project.vercel.app" target="_blank"> Gestão de habitos </a>
 <a href="https://maissaude.vercel.app" target="_blank"> Mais saúde </a>
